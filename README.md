@@ -6,13 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivatsav-k&label=Profile%20views&color=0e75b6&style=flat" alt="srivatsav-k" /> </p>
 
-- 🔭 I’m currently working on **customer resource management tool**
-
-- 🌱 I’m currently learning **MERN stack**
+- 🔭 I’m currently working as a SDE @ **Cybrilla**
 
 - 👯 I’m looking to collaborate on **projects that solve real world problems**
-
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **srivatsav11000@gmail.com**
 
