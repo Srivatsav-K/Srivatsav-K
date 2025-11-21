@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,vite,nextjs,tailwind,materialui,npm,pnpm,yarn,rollupjs,tensorflow,nodejs,express,sentry,python,cpp,mongodb,postgres,mysql,redis,postman,git,github,gitlab,bash,linux,docker,netlify,vscode,md,notion" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,html,css,react,nextjs,nodejs,express,spring,rabbitmq,mongodb,postgres,redis,mysql,redux,vite,tailwind,materialui,npm,pnpm,yarn,rollupjs,tensorflow,sentry,postman,git,github,gitlab,bash,linux,docker,netlify,vscode,md,notion" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivatsav-k&show_icons=true&locale=en&layout=compact" alt="srivatsav-k" /></p>
